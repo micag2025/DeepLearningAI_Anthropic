@@ -18,4 +18,6 @@ In detail:
 - See all these concepts come together in a demo that uses Anthropic Computer Use to achieve a task on a computer.
 
 
-### Working with the API 
+### Working with the API   
+### Multimodal requests  
+### Real World Prompting
