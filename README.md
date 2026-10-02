@@ -21,3 +21,19 @@ In detail:
 ### Working with the API   
 ### Multimodal requests  
 ### Real World Prompting
+
+## What's inside   
+TO BE DRAFTED 
+
+## Getting started  
+TO BE DRAFTED
+
+## Contributions  
+TO BE DRAFTED
+
+## Comunity&Resources  
+TO BE DRAFTED
+
+## Licence
+TO BE DRAFTED
+
