@@ -22,7 +22,7 @@ In detail:
    
 ### [Multimodal requests&Streaming](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Multimodal_Requests_Streaming.ipynb)  
 ### [Real World Prompting](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Real_World_Prompting.ipynb)
-### [Tool Uzse](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Tool_Use.ipynb)
+### [Tool Use](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Tool_Use.ipynb)
 
 
 ## What's inside   
@@ -34,8 +34,9 @@ TO BE DRAFTED
 ## Contributions  
 TO BE DRAFTED
 
-## Comunity&Resources  
-TO BE DRAFTED
+## Resources  
+- [Claude Platform Docs](https://platform.claude.com/docs)
+
 
 ## Licence
 This repository is licensed under the [MIT License](
