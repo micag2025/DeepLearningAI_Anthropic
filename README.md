@@ -1,5 +1,6 @@
 # DeepLearningAI_Anthropic
 
+---
 
 ## Building toward Computer Use with Anthropic
 
@@ -17,28 +18,40 @@ In detail:
 - Understand tool-use workflows and build a chatbot that can call different tools in response to users’ queries.
 - See all these concepts come together in a demo that uses Anthropic Computer Use to achieve a task on a computer.
 
+---  
 
-### [Working with the API](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Working_with_API.ipynb)
-   
+### [Working with the API](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Working_with_API.ipynb)   
 ### [Multimodal requests&Streaming](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Multimodal_Requests_Streaming.ipynb)  
 ### [Real World Prompting](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Real_World_Prompting.ipynb)
 ### [Tool Use](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Tool_Use.ipynb)
 
+---
 
 ## What's inside   
 TO BE DRAFTED 
 
+ ---
+ 
 ## Getting started  
 TO BE DRAFTED
 
+---
+
 ## Contributions  
-TO BE DRAFTED
+
+Contributions are welcome! Feel free to submit [pull requests](https://github.com/micag2025/DeepLearningAI_Anthropic/pulls) to improve or extend the codebase.
+
+---
 
 ## Resources  
+
 - [Claude Platform Docs](https://platform.claude.com/docs)
+- [Deelplearning.AI](https://www.deeplearning.ai/courses)  
 
+---
 
-## Licence
+## Licence  
+
 This repository is licensed under the [MIT License](
 https://github.com/micag2025/DeepLearningAI_Anthropic/blob/141309985cf2e9dbfc8c1e27702acf2796e272e1/LICENSE).
 
