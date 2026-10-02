@@ -18,10 +18,12 @@ In detail:
 - See all these concepts come together in a demo that uses Anthropic Computer Use to achieve a task on a computer.
 
 
-### [Working with the API](   
-### [Multimodal requests](  
-### [Real World Prompting](
-### [Tool Uzse](
+### [Working with the API](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Working_with_API.ipynb)
+   
+### [Multimodal requests&Streaming](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Multimodal_Requests_Streaming.ipynb)  
+### [Real World Prompting](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Real_World_Prompting.ipynb)
+### [Tool Uzse](https://github.com/micag2025/DeepLearningAI_Anthropic/blob/1f7ac5b8eec2731a6d940cd5405cb1d5b7a86216/Tool_Use.ipynb)
+
 
 ## What's inside   
 TO BE DRAFTED 
