@@ -35,5 +35,5 @@ TO BE DRAFTED
 TO BE DRAFTED
 
 ## Licence
-TO BE DRAFTED
+This repository is licensed under the [MIT License]().
 
