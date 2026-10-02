@@ -18,9 +18,10 @@ In detail:
 - See all these concepts come together in a demo that uses Anthropic Computer Use to achieve a task on a computer.
 
 
-### Working with the API   
-### Multimodal requests  
-### Real World Prompting
+### [Working with the API](   
+### [Multimodal requests](  
+### [Real World Prompting](
+### [Tool Uzse](
 
 ## What's inside   
 TO BE DRAFTED 
@@ -35,5 +36,6 @@ TO BE DRAFTED
 TO BE DRAFTED
 
 ## Licence
-This repository is licensed under the [MIT License]().
+This repository is licensed under the [MIT License](
+https://github.com/micag2025/DeepLearningAI_Anthropic/blob/141309985cf2e9dbfc8c1e27702acf2796e272e1/LICENSE).
 
