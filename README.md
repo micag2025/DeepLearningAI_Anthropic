@@ -47,15 +47,24 @@ Each notebook focuses on a specific concept, making it easier to explore the con
  
 ## Getting started  
 
-To get started, clone the repository and open the notebooks in a Jupyter environment. Before running the examples, make sure you have Python installed and that your Anthropic API key is configured in your environment.
+This section shows how to install dependencies, configure authentication, and run the full pipeline.
 
-A typical workflow is:  
+Prerequisites:
+Python 3.10+
+Google Colab or Jupyter environment
+Anthropic API key (see .env_example)
 
-- Clone the repository to your local machine.  
-- Install the required Python dependencies.  
-- Configure your Anthropic API key.  
-- Open the notebook you want to explore.  
-- Run each section in order to follow the learning progression.  
+
+Clone and install
+
+```bash
+git clone https://github.com/micag2025/DEEPLEARNINGAI-CREWAI.git
+cd DEEPLEARNINGAI-CREWAI
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+Configure environment variables (see .env.example)
+```
 
 ---
 
