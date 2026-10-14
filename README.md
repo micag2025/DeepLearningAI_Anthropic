@@ -19,10 +19,10 @@ The repository is organized into four notebooks, each focused on a different con
 
 | Module | Topics |
 | --- | --- |
-| **Working with the API** | Simple text requests, message format, model parameters |
-| **Multimodal Requests & Streaming** | Single-image requests, multi-image + text requests, streaming  |
-| **Real World Prompting** | Prompting chatbots vs. scalable prompt templates, practical prompting strategies |
-| **Tool Use** | Tool use overview, end-to-end tool-use flow |
+| **[Working with the API](./Working_with_API.ipynb)** | Simple text requests, message format, model parameters |
+| **[Multimodal Requests & Streaming](./Multimodal_Requests_Streaming.ipynb)** | Single-image requests, multi-image + text requests, streaming  |
+| **[Real World Prompting](./Real_World_Prompting.ipynb)** | Prompting chatbots vs. scalable prompt templates, practical prompting strategies |
+| **[Tool Use](./Tool_Use_Streamlit.ipynb)** | Tool use overview, end-to-end tool-use flow |
 
 ---
 ## Repository Structure  
