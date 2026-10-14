@@ -11,6 +11,11 @@ To explore Anthropic's approach to AI research, safety, alignment, and interpret
 Each topic builds toward a final demonstration in which an agent combines these capabilities to perform practical tasks within a real-world workflow.
 
 ---  
+### Why Anthropic?
+
+Anthropic stands out for its practical, research-driven approach to building capable AI systems that combine multimodal understanding, structured prompting, and tool use. Through Claude’s API, the users can move beyond simple chat interactions and explore how models can be integrated into real workflows for reasoning, execution, and agent-like behavior.
+
+---  
 
 ## Repository Contents 
 
