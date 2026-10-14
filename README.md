@@ -2,66 +2,67 @@
 
 ---
 
-This repository contains updated and personalized notebooks based on the learning material from the [Building Toward Computer Use with Anthropic short course](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic), created by [DeepLearning.AI](https://www.deeplearning.ai/courses) in collaboration with [Anthropic](https://platform.claude.com/docs).   
+This repository contains a set of practical updated and personalized notebooks based on the learning material from the [Building Toward Computer Use with Anthropic short course](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic), created by [DeepLearning.AI](https://www.deeplearning.ai/courses) in collaboration with [Anthropic](https://platform.claude.com/docs).   
 
-The learning path of the [Building Toward Computer Use with Anthropic](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic) introduces a powerful capability from Anthropic, focusing on how Claude can reason about `visual inputs`, `use tools`, and `work with multimodal context` to act more like an AI assistant than a static chatbot.
-
-To explore Anthropic's approach to AI research, safety, alignment, and interpretability, this repository walks through the core concepts covered in the learning path using the Anthropic API. The notebooks cover API fundamentals, multimodal prompting, streaming responses, prompt caching, and tool use.
-
-Each topic builds toward a final demonstration in which an agent combines these capabilities to perform practical tasks within a real-world workflow.
+The learning path of the [Building Toward Computer Use with Anthropic](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic) ore concepts of Anthropic in a progressive order: `API interaction`, `multimodal understanding`, `structured prompting`, and `tool use`. This repository follows that path and builds toward an agent-style workflow that can complete real tasks with the help of tools.
 
 ---  
 ### Why Anthropic?
 
-Anthropic stands out for its practical, research-driven approach to building capable AI systems that combine multimodal understanding, structured prompting, and tool use. Through Claude’s API, the users can move beyond simple chat interactions and explore how models can be integrated into real workflows for reasoning, execution, and agent-like behavior.
+Anthropic emphasizes research-driven AI development, with a focus on multimodal understanding, prompt design, and tool-augmented systems. Claude's API offers a practical environment to experiment with these ideas and apply them in real-world workflows.
 
 ---  
 
 ## Repository Contents 
 
-The repository is organized into four notebooks, each focusing on a key concept introduced in the course. The notebooks progressively move from basic API interaction to multimodal applications and tool-augmented workflows.
+The repository is organized into four notebooks, each focused on a different concept from the learning path.  
 
-| Notebook | Topics |
-|---|---|
-| **Working with the API** | API setup, authentication, messages, model parameters |
-| **Multimodal Requests & Streaming** | Images, multimodal prompts, streaming |
-| **Real-World Prompting** | XML prompts, examples, prompt caching |
-| **Tool Use** | Tool calling, multi-tool workflows, agents |
+| Module | Topics |
+| --- | --- |
+| **Working with the API** | Simple text requests, message format, model parameters |
+| **Multimodal Requests & Streaming** | Single-image requests, multi-image + text requests, streaming  |
+| **Real World Prompting** | Prompting chatbots vs. scalable prompt templates, practical prompting strategies |
+| **Tool Use** | Tool use overview, end-to-end tool-use flow |
 
 ---
 
-## What's inside    
+## What you'll find 
 
-- **Hands-on notebooks** covering Anthropic API usage, multimodal inputs, structured prompting, streaming, prompt caching, and tool calling with Claude.  
-- **Practical examples** connecting Claude's capabilities with real-world AI application patterns.
-- **Progressive learning** that moves from basic API interaction and prompt engineering toward tool-augmented and agent-like workflows.    
-- **Practice exercises** designed to reinforce the concepts introduced in each notebook.
+- **Hands-on notebooks** covering Anthropic API usage, multimodal inputs, structured prompting, streaming, prompt caching, and tool calling.  
+- **Practical examples** that connect Claude's capabilities to real-world AI application patterns.  
+- **A Progressive learning path** from basic API interaction to more advanced, tool-augmented workflows.   
+- **Practice exercises** designed to reinforce the concepts introduced in each notebook.  
 
-The repository is designed to be approachable and practical, whether you are learning the basics of API interaction or experimenting with tool-using AI assistants.
-
-The overall goal is to move beyond simple conversational interactions and explore how models, tools, context, and execution loops can be combined to build more capable AI applications.
+The overall goal is to move beyond simple conversational interactions and explore how models, tools, context, and execution loops can be combined to build more capable AI applications.    
 
  ---
  
 ## Getting started  
 
-This section shows how to install dependencies, configure authentication, and run the full pipeline.
-
-_Prerequisites:_    
+### Prerequisites   
 - Python 3.10+  
 - Google Colab or Jupyter environment  
-- Anthropic API key (see .env_example)  
+- An Anthropic API key 
 
-_Clone and install_  
+### Clone and install    
 
 ```bash
 git clone https://github.com/micag2025/DeepLearningAI_Anthropic.git
 cd DeepLearningAI_Anthropic
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-Configure environment variables (see .env.example)
+pip install -r requirements.txt  
 ```
+
+### Configure environment variables  
+
+Copy the example environment file, `.env.example` and add your API key:  
+
+```bash  
+cp .env.example .env
+```
+
+Then update .env with your Anthropic API key and any required settings.  
 
 ---
 
