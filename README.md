@@ -25,6 +25,29 @@ The repository is organized into four notebooks, each focused on a different con
 | **Tool Use** | Tool use overview, end-to-end tool-use flow |
 
 ---
+## Repository Structure  
+
+```
+DeepLearningAI_Anthropic-main/
+├── images/
+│   ├── food.png
+│   ├── invoice.png
+│   ├── packages.png
+│   └── plant.png
+├── requirements.txt
+├── .env_example
+├── helper.py
+├── Working_with_API.ipynb
+├── Multimodal_Requests_Streaming.ipynb
+├── Real_World_Prompting.ipynb
+├── Tool_Use_Streamlit.ipynb
+├── app.py
+├── support_backend.py
+├── Screenshot_Tool_Use_Streamlit.jpeg
+├── README.md
+├── LICENSE
+````
+---
 
 ## What you'll find 
 
