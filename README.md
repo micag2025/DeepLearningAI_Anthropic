@@ -15,7 +15,7 @@ Anthropic emphasizes research-driven AI development, with a focus on multimodal 
 
 ## Repository Contents 
 
-The repository is organized into four notebooks, each focused on a different concept from the learning path.  
+The repository is organized into four notebooks, each focused on a different concept from the practical learning path.  
 
 | Module | Topics |
 | --- | --- |
@@ -26,6 +26,8 @@ The repository is organized into four notebooks, each focused on a different con
 
 ---
 ## Repository Structure  
+
+The project root contains the main notebooks, utility scripts, example assets, and environment configuration files.
 
 ```
 DeepLearningAI_Anthropic-main/
