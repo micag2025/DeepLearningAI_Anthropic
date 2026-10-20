@@ -4,7 +4,7 @@
 
 This repository contains a set of practical updated and personalized notebooks based on the learning material from the [Building Toward Computer Use with Anthropic short course](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic), created by [DeepLearning.AI](https://www.deeplearning.ai/courses) in collaboration with [Anthropic](https://platform.claude.com/docs).   
 
-The learning path of the [Building Toward Computer Use with Anthropic](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic) ore concepts of Anthropic in a progressive order: `API interaction`, `multimodal understanding`, `structured prompting`, and `tool use`. This repository follows that path and builds toward an agent-style workflow that can complete real tasks with the help of tools.
+The learning path of the [Building Toward Computer Use with Anthropic](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic) covers concepts of Anthropic in a progressive order: `API interaction`, `multimodal understanding`, `structured prompting`, and `tool use`. This repository follows that path and builds toward an agent-style workflow that can complete real tasks with the help of tools.
 
 ---  
 ### Why Anthropic?
