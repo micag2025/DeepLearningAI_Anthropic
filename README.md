@@ -2,14 +2,14 @@
 
 ---
 
-This repository contains a set of practical updated and personalized notebooks based on the learning material from the [Building Toward Computer Use with Anthropic short course](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic), created by [DeepLearning.AI](https://www.deeplearning.ai/courses) in collaboration with [Anthropic](https://platform.claude.com/docs).   
+This repository contains a set of practical updated and personalized notebooks based on the [Building Toward Computer Use with Anthropic short course](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic), created by [DeepLearning.AI](https://www.deeplearning.ai/courses) in collaboration with [Anthropic](https://platform.claude.com/docs).   
 
-The learning path of the [Building Toward Computer Use with Anthropic](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic) covers concepts of Anthropic in a progressive order: `API interaction`, `multimodal understanding`, `structured prompting`, and `tool use`. This repository follows that path and builds toward an agent-style workflow that can complete real tasks with the help of tools.
+The [Building Toward Computer Use with Anthropic](https://www.deeplearning.ai/courses/building-toward-computer-use-with-anthropic) covers concepts of Anthropic in a progressive order: `API interaction`, `multimodal understanding`, `structured prompting`, and `tool use`. This repository follows that path and builds toward an agent-style workflow that can complete real tasks with the help of tools.
 
 ---  
 ### Why Anthropic?
 
-Anthropic emphasizes research-driven AI development, with a focus on multimodal understanding, prompt design, and tool-augmented systems. Claude's API offers a practical environment to experiment with these ideas and apply them in real-world workflows.
+[Anthropic](https://www.anthropic.com/)  emphasizes research-driven AI development, with a focus on multimodal understanding, prompt design, and tool-augmented systems. Claude's API offers a practical environment to experiment with these ideas and apply them in real-world workflows.
 
 ---  
 
@@ -100,7 +100,8 @@ Contributions are welcome! If you would like to improve the examples, fix issues
 ## Resources  
 
 - [Claude Platform Docs](https://platform.claude.com/docs)
-- [Deelplearning.AI](https://www.deeplearning.ai/courses)  
+- [Deelplearning.AI](https://www.deeplearning.ai/courses)
+- [Anthropic](https://www.anthropic.com/)   
 
 ---
 
